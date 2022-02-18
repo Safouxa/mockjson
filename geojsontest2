@@ -3,7 +3,6 @@
 "name": "GeojsonTest2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -2.325938792509206, 34.928571019444639 ] } },
 { "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -2.333104463465089, 34.927658625632795 ] } }
 ]
 }
