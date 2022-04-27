@@ -1,37 +1,18 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.3248,
-          34.9397517
-        ],
-        "x": -2.3248,
-        "y": 34.9397517
-      },
-      "type": "Feature",
-      "properties": {
-        "lastInspectedAt": "2021-06-15T22:46:58"
-      },
-      "id": "www.sdmb.ma/ibin/4454494862.pdf"
+ {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.3298069,34.9344159 ]
     },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.3248073,
-          34.9397719
-        ],
-        "x": -2.3248073,
-        "y": 34.9397719
-      },
-      "type": "Feature",
-      "properties": {
-        "lastInspectedAt": "2021-06-15T22:45:25"
-      },
-      "id": "www.sdmb.ma/ibin/3978127859.pdf"
+    "properties": {
+    "id":359,
+    "etatBacs":"Normal",
+    "image":"2021/04/17 21:24:25",
+    "typeBacs":"Galvanis�",
+    "Volume":"1100 L",
+    "Commune":"Berkane",
+    "Adresse":"",
+    "dateheure":"2021/04/17 21:24:46",
+    "image_bacs":""
     }
-    ]
-}
+  }
